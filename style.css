@@ -1,0 +1,29 @@
+.para {
+    display: none;
+}
+
+.heading{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+#form{
+   
+    align-items: center;
+    justify-content: center;
+
+
+}
+.form1{
+    width: 700px;
+}
+
+#table11{
+    padding: 2%;}
+
+#divvv{
+    padding-left:10px ;
+}
+button{
+    border: 20px;
+}
